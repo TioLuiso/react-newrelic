@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { BrowserAgent } from '@newrelic/browser-agent/loaders/browser-agent'
+
 
 function App() {
   return (
