@@ -5,6 +5,14 @@ import { BrowserAgent } from '@newrelic/browser-agent/loaders/browser-agent'
 
 
 function App() {
+  const options = {
+    init: {}, // NREUM.init
+    info: {}, // NREUM.info
+    loader_config: {} // NREUM.loader_config
+  }
+  
+  // The agent loader code executes immediately on instantiation.
+  new BrowserAgent(options)
   return (
     <div className="App">
       <header className="App-header">

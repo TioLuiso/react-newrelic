@@ -1552,9 +1552,9 @@
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
 "@newrelic/browser-agent@^0.1.229":
-  version "0.1.229"
-  resolved "https://registry.yarnpkg.com/@newrelic/browser-agent/-/browser-agent-0.1.229.tgz#b7b0a90fe2e931132d33788369a550b56ed7eecc"
-  integrity sha512-xXAdOekivHIONsXD4LzxgAURQ53lCH4SiQdyUnktc6fBNVMJFN/aN0aMGbe71pF0rMa2a3mmfQTv5LSyzxydOw==
+  version "0.1.230"
+  resolved "https://registry.yarnpkg.com/@newrelic/browser-agent/-/browser-agent-0.1.230.tgz#fc8a57080d75c988753e8ccd7493a505b1cd53f9"
+  integrity sha512-LuY4ATWtQVMjHyZ32H8LYxo5xLKwG9rU9TF21aaUTOu9ZojRYCpixbMavf3AyFZgWvxx4ILz8FObbbjdfPAxVQ==
   dependencies:
     core-js "^3.26.0"
     lodash._slice "^2.4.1"
